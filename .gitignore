@@ -1,0 +1,12 @@
+
+.cproject
+.gitattributes
+.mxproject
+.project
+/.settings
+/Debug
+/MDK-ARM
+STM32H750VBTX_FLASH.ld
+STM32H750VBTX_RAM.ld
+demo_ov2640.ioc
+demo_ov2640.launch
